@@ -54,6 +54,9 @@ table {
   border-collapse: collapse;
   margin: 12px 0;
 }
+caption{
+  padding: 8px;
+}
 th,
 td {
   border: 1px solid #ccc;
@@ -87,7 +90,7 @@ button {
   cursor: pointer;
 }
 button:hover {
-  background: #0b5b52;
+  background: #b90624;
 }
 footer {
   text-align: center;
